@@ -53,7 +53,7 @@ footer{
 
 
 .sample{
-  margin-top: 300px; 
+  margin-top: 185px; 
   text-align: center;
 }
 
@@ -63,4 +63,24 @@ input {
     
         
     }
+.soccer{
+    text-align: center;
+}
+
+.ervaring-forum{
+    
+    font-family:Charcoal;
+    text-decoration-line: underline;
+    color: red;
+   border: thick double #32a1ce;
+align-content: center;
+}
+
+
+.voetbal{ 
+    text-align: center;
+}
+
+    
+
  
